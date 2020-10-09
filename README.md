@@ -1,3 +1,6 @@
-# BlogsAndTutorials
+# Blogs and Tutorials
 
-This is [tutorial](http://sumonbis.github.io/BlogsAndTutorials/Tutorials/adding-closed-captions-in-video-talk.pdf) on how to generate closed captions for your presentation video.
+this is a list of blogs and tutorials that I created. 
+
+### Rutorials
+1. This is tutorial on [how to generate closed captions for your presentation video](http://sumonbis.github.io/BlogsAndTutorials/Tutorials/adding-closed-captions-in-video-talk.pdf). This is a nice way to add subtitles very easily for your talk. By adding the captions, you can reach more audiences who have difficulty with the audio.
